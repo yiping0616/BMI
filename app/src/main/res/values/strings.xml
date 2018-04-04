@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BMI</string>
+
+    <string name="bmi_extra">BMI_Extra</string>
+</resources>
